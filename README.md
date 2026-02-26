@@ -29,5 +29,6 @@ Features & Functionalities
 
 Flow of the Application 
 Home Page ---- Displays Hero Section, Featured Products, and Product Grid. User Interaction ---- User can search products from header. Search Redirect --- Redirects to /shop?search=keyword. Shop Page ----Filters products based on search query. User can apply category filter and sorting. User clicks a product----- Navigates to Product Details page. Add to Cart ---- Updates Redux store and cart badge. Cart Page ----Displays added products. Reset Filters ---- Clears search, category and sorting
+using prittier to arrage the codes
 
 
